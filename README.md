@@ -9,4 +9,4 @@ This is a basic blockchain prototype implementation to help understand the basic
 
 ## final output-
 
-<img src="https://github.com/rahul2412/BlockchainJavascript/blob/master/Capture.PNG" alt="our result"/>
+<img src="https://github.com/rahul2412/Blockchain-Javascript/blob/master/Capture.PNG" alt="our result"/>
